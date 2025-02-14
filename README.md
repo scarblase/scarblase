@@ -34,7 +34,7 @@
 ---
 
 ## 🌍 Languages  
-I love **learning and communicating** in multiple languages!  
+Passionate about **learning and communicating** in multiple languages! :)  
 - 🇬🇧 **English** – Fluent  
 - 🇵🇱 **Polish** – Fluent  
 - 🇺🇦 **Ukrainian** – Fluent  
@@ -46,7 +46,9 @@ I love **learning and communicating** in multiple languages!
 
 ## 📫 How to Reach Me  
 📧 Email: [tmhomenko@gmail.com](mailto:tmhomenko@gmail.com)  
-💼 LinkedIn: [Bohdan Khomenko](https://www.linkedin.com/in/bkhomenko/) 
+💼 LinkedIn: [Bohdan Khomenko](https://www.linkedin.com/in/bkhomenko/)
+
+
 🚀 Always open to **collaborations, networking, and exciting projects!**
 
 <!---
