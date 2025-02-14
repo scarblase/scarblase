@@ -22,24 +22,9 @@
 
 ---
 
-## 🌍 Languages  
-Passionate about **learning and communicating** in multiple languages! :)  
-- 🇬🇧 **English** – Fluent  
-- 🇵🇱 **Polish** – Fluent  
-- 🇺🇦 **Ukrainian** – Fluent  
-- 🇷🇺 **Russian** – Fluent  
-- 🇩🇪 **German** – Intermediate (B2)  
-- 🇫🇷 **French** – Basic (A1)  
-
----
-
 ## 📫 How to Reach Me  
 📧 Email: [tmhomenko@gmail.com](mailto:tmhomenko@gmail.com)  
 💼 LinkedIn: [Bohdan Khomenko](https://www.linkedin.com/in/bkhomenko/)
-
-
-🚀 Always open to **collaborations, networking, and exciting projects!**
-
 <!---
 scarblase/scarblase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
