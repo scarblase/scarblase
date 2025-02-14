@@ -20,17 +20,6 @@
 - **Big Data**: PySpark, Data Warehousing Concepts (Snowflake, BigQuery, Redshift)  
 - **ORM & Database Tools**: SQLAlchemy  
 
-### ☁️ **Cloud & Web Technologies**  
-- **Cloud Platforms**: AWS, Google Cloud  
-- **Web Development**: HTML, SCSS, JavaScript  
-
-### 📌 **Project Management & Collaboration**  
-- **PM Tools**: Jira, Confluence, Asana, Trello, Craft, ClickUp, Notion, Microsoft Office  
-- **Version Control**: Git, GitHub  
-
-### 📈 **Marketing & CRM Tools**  
-- **CRM & Analytics**: Salesforce, ActiveCampaign, Customer.io, Zendesk, Google Ads & Google Analytics
-
 ---
 
 ## 🌍 Languages  
