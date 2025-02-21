@@ -1,30 +1,45 @@
-# 👋 Hi, I'm Bohdan  
+# 👋 Hi, I'm Bohdan Khomenko  
 
-## 🚀 About Me  
-- 📊 Passionate about **data analysis** and **data science**  
-- 🤖 Exploring **machine learning, data engineering, and data analytics**  
-- 🌱 Currently learning and working with **Python** and various data-related technologies  
-- 💡 Interested in **data visualization, data modeling, and big data solutions**  
-- 🎯 Looking to collaborate on **data-driven projects** and real-world problem-solving  
-
-## 🛠️ Tech Stack  
-### 📊 Data Analysis & Visualization  
-- **Python Libraries**: Pandas, Matplotlib, Seaborn  
-- **BI & Visualization**: Tableau ([My Tableau Profile](https://public.tableau.com/app/profile/bohdan.khomenko/vizzes)), Power BI  
-
-### 🤖 Machine Learning & Scientific Computing  
-- **Libraries & Frameworks**: NumPy, SciPy, PyTorch  
-
-### 🏢 Big Data & Databases  
-- **Databases**: SQL (PostgreSQL, MySQL, SQL Server), MongoDB  
-- **Big Data**: PySpark, Data Warehousing Concepts (Snowflake, BigQuery, Redshift)  
-- **ORM & Database Tools**: SQLAlchemy  
+🎯 **Data Analyst | Data Scientist | Machine Learning Enthusiast**  
+📊 **Turning Data into Insights | Building Scalable Data Solutions**  
+🚀 **Passionate about Data, Analytics, and AI-driven Innovations**  
 
 ---
 
-## 📫 How to Reach Me  
-📧 Email: [tmhomenko@gmail.com](mailto:tmhomenko@gmail.com)  
-💼 LinkedIn: [Bohdan Khomenko](https://www.linkedin.com/in/bkhomenko/)
+### 🛠 Tech Stack  
+
+**📊 Data Analysis & Visualization**  
+🐍 Python: `Pandas`, `Matplotlib`, `Seaborn`  
+📊 BI Tools: `Tableau`, `Power BI`  
+
+**🤖 Machine Learning & AI**  
+🧠 ML Libraries: `NumPy`, `SciPy`, `PyTorch`  
+📈 Data Modeling & Forecasting  
+
+**🏢 Big Data & Databases**  
+🗄 SQL: `PostgreSQL`, `MySQL`, `SQL Server`  
+🌍 NoSQL: `MongoDB`  
+⚡ Big Data: `PySpark`, `Snowflake`, `BigQuery`, `Redshift`  
+🛠 ORM & DB Tools: `SQLAlchemy`  
+
+---
+
+### 🚀 What I'm Working On  
+🔹 Exploring **Data Engineering & Machine Learning** at scale  
+🔹 Experimenting with **PySpark & Cloud Data Warehousing**  
+🔹 Enhancing **Data Visualization & Storytelling**  
+
+---
+
+### 💡 Let's Connect!  
+
+📧 **Email**: tmhomenko@gmail.com  
+💼 **LinkedIn**: [Bohdan Khomenko](https://www.linkedin.com/in/bohdan-khomenko/)  
+
+---
+
+💬 **Fun Fact:** *I believe every dataset has a story—let’s find it together!* 🚀  
+
 <!---
 scarblase/scarblase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
