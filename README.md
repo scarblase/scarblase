@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bohdan Khomenko  
+# 👋 Hi, I'm `Bohdan Khomenko` 
 
 🎯 **Data Analyst | Data Scientist | Machine Learning Enthusiast**  
 📊 **Turning Data into Insights | Building Scalable Data Solutions**  
@@ -10,17 +10,17 @@
 
 **📊 Data Analysis & Visualization**  
 🐍 Python: `Pandas`, `Matplotlib`, `Seaborn`  
-📊 BI Tools: `Tableau`, `Power BI`  
+📊 BI Tools: `Tableau` 
 
 **🤖 Machine Learning & AI**  
-🧠 ML Libraries: `NumPy`, `SciPy`, `PyTorch`  
+🧠 ML Libraries: `NumPy`, `SciPy`, `scikit-learn`  
 📈 Data Modeling & Forecasting  
 
 **🏢 Big Data & Databases**  
 🗄 SQL: `PostgreSQL`, `MySQL`, `SQL Server`  
 🌍 NoSQL: `MongoDB`  
-⚡ Big Data: `PySpark`, `Snowflake`, `BigQuery`, `Redshift`  
-🛠 ORM & DB Tools: `SQLAlchemy`  
+⚡ Big Data: `PySpark`, `Snowflake`, `BigQuery`, `Redshift`, `Databricks`
+🛠 ORM & DB Tools: `SQLAlchemy`,  `dbt`, `Airflow`, `marimo`
 
 ---
 
