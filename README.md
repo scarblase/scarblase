@@ -1,46 +1,45 @@
-# 👋 Hi, I'm `Bohdan Khomenko` 
+# 👋 Hi, I'm **Bohdan Khomenko**  
 
-🎯 **Data Analyst | Data Scientist | Machine Learning Enthusiast**  
-📊 **Turning Data into Insights | Building Scalable Data Solutions**  
-🚀 **Passionate about Data, Analytics, and AI-driven Innovations**  
-
----
-
-### 🛠 Tech Stack  
-
-**📊 Data Analysis & Visualization**  
-🐍 Python: `Pandas`, `Matplotlib`, `Seaborn`  
-📊 BI Tools: `Tableau` 
-
-**🤖 Machine Learning & AI**  
-🧠 ML Libraries: `NumPy`, `SciPy`, `scikit-learn`  
-📈 Data Modeling & Forecasting  
-
-**🏢 Big Data & Databases**  
-🗄 SQL: `PostgreSQL`, `MySQL`, `SQL Server`  
-🌍 NoSQL: `MongoDB`  
-⚡ Big Data: `PySpark`, `Snowflake`, `BigQuery`, `Redshift`, `Databricks`
-🛠 ORM & DB Tools: `SQLAlchemy`,  `dbt`, `Airflow`, `marimo`
+🎯 **Data Scientist | Machine Learning Enthusiast | Big Data Explorer**  
+📊 **Transforming raw data into actionable insights & scalable solutions**  
+🚀 **Driven by curiosity, precision, and AI-powered innovation**  
 
 ---
 
-### 🚀 What I'm Working On  
-🔹 Exploring **Data Engineering & Machine Learning** at scale  
-🔹 Experimenting with **PySpark & Cloud Data Warehousing**  
-🔹 Enhancing **Data Visualization & Storytelling**  
+## 🛠 Tech Stack  
+
+### 📊 Data Analysis & Visualization  
+- **Python**: `Pandas`, `Polars`, `NumPy`, `SciPy`  
+- **Visualization**: `Matplotlib`, `Seaborn`, `Plotly`  
+- **Data Storytelling**: `Tableau`, `Power BI`  
+
+### 🤖 Machine Learning & AI  
+- **Core ML**: `scikit-learn`, `XGBoost`, `LightGBM`  
+- **Deep Learning**: `TensorFlow`, `Keras`, `PyTorch`  
+- **NLP & Web Scraping**: `BeautifulSoup`, `Requests`, `spaCy`, `NLTK`  
+- **Model Deployment**: `FastAPI`, `Streamlit`, `Flask`  
+
+### 🏢 Databases & Big Data  
+- **SQL**: `PostgreSQL`, `MySQL`, `SQL Server`  
+- **NoSQL**: `MongoDB`  
+- **Big Data**: `PySpark`, `Databricks`, `Snowflake`, `BigQuery`, `Redshift`  
+- **In-Memory & OLAP**: `DuckDB`, `ClickHouse`  
+- **Data Orchestration**: `Airflow`, `dbt`  
 
 ---
 
-### 💡 Let's Connect!  
+## 🚀 Current Focus  
+- Building **scalable ML pipelines** for business applications  
+- Exploring **distributed data processing** with `PySpark` & `Databricks`  
+- Advancing skills in **deep learning & model deployment**  
+- Enhancing **interactive dashboards** with `Plotly` & `Tableau`  
+ 
+---
 
-📧 **Email**: tmhomenko@gmail.com  
+## 💡 Let's Connect  
+📧 **Email**: [tmhomenko@gmail.com](mailto:tmhomenko@gmail.com)  
 💼 **LinkedIn**: [Bohdan Khomenko](https://www.linkedin.com/in/bohdan-khomenko/)  
 
 ---
 
-💬 **Fun Fact:** *I believe every dataset has a story—let’s find it together!* 🚀  
-
-<!---
-scarblase/scarblase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 *"Every dataset has a hidden story. My mission is to uncover it and turn it into value."* 🚀
