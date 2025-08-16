@@ -16,11 +16,8 @@
 
 I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline development, from raw data ingestion to production-ready models. I specialize in extracting actionable insights from complex datasets and building scalable AI solutions that drive real business impact.
 
----
-
 ## 🛠️ Technical Arsenal
 
----
 
 <div align="center">
 
@@ -78,69 +75,6 @@ I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline dev
 
 ---
 
-## 📈 **What I Do Best**
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<div align="left">
-
-### 🔍 **Predictive Analytics**
-
-![Analytics](https://img.shields.io/badge/-Predictive%20Modeling-FF6B6B?style=flat-square)
-
-- 📊 **Customer churn prediction** - Identify at-risk customers
-- 📈 **Demand forecasting** - Optimize inventory & resources
-- ⚠️ **Risk assessment models** - Quantify business risks
-- ⏰ **Time series analysis** - Trend prediction & seasonality
-
-### 🧠 **Machine Learning**
-
-![ML](https://img.shields.io/badge/-Advanced%20ML-4ECDC4?style=flat-square)
-
-- 🎯 **Classification & regression** - Supervised learning expertise
-- 🔄 **Clustering & segmentation** - Customer & market analysis
-- 💡 **Recommendation systems** - Personalization algorithms
-- 🚀 **Deep learning applications** - Neural networks & AI
-
-</div>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<div align="left">
-
-### 📊 **Data Engineering**
-
-![Engineering](https://img.shields.io/badge/-Data%20Pipelines-45B7D1?style=flat-square)
-
-- 🔄 **ETL/ELT pipeline design** - Scalable data workflows
-- ⚡ **Real-time data processing** - Stream analytics & monitoring
-- 🏗️ **Data warehouse architecture** - Enterprise data solutions
-- 🔗 **API development & integration** - Seamless data connectivity
-
-### 🎯 **Business Intelligence**
-
-![BI](https://img.shields.io/badge/-Strategic%20Insights-F7DC6F?style=flat-square)
-
-- 📱 **Interactive dashboards** - Executive & operational reporting
-- 📊 **KPI monitoring systems** - Performance tracking & alerts
-- 🧪 **A/B testing frameworks** - Data-driven experimentation
-- 📋 **Statistical analysis & reporting** - Evidence-based decisions
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 **Current Focus & Learning**
 
 - 🚀 **MLOps & Model Deployment**: Building production-ready ML systems with MLFlow
@@ -163,8 +97,6 @@ I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline dev
 ---
 
 <div align="center">
-
-### 💡 _"Data is the new oil, but insights are the refined fuel that powers business success."_
 
 **Open to exciting data science opportunities and collaborative projects!** 🚀
 
