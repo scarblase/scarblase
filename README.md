@@ -1,45 +1,222 @@
-# 👋 Hi, I'm **Bohdan Khomenko**  
+# 👋 Hi there, I'm **Bohdan Khomenko**
 
-🎯 **Data Scientist | Machine Learning Enthusiast | Big Data Explorer**  
-📊 **Transforming raw data into actionable insights & scalable solutions**  
-🚀 **Driven by curiosity, precision, and AI-powered innovation**  
+<div align="center">
 
----
+![Data Science](https://img.shields.io/badge/Data%20Science-Expert-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Specialist-green?style=for-the-badge&logo=tensorflow)
+![Big Data](https://img.shields.io/badge/Big%20Data-Engineer-orange?style=for-the-badge&logo=apache-spark)
 
-## 🛠 Tech Stack  
+### 🎯 **Data Scientist | ML Engineer | Big Data Engineer**
 
-### 📊 Data Analysis & Visualization  
-- **Python**: `Pandas`, `Polars`, `NumPy`, `SciPy`  
-- **Visualization**: `Matplotlib`, `Seaborn`, `Plotly`  
-- **Data Storytelling**: `Tableau`, `Power BI`  
+### 📊 **Transforming Complex Data into Strategic Business Value**
 
-### 🤖 Machine Learning & AI  
-- **Core ML**: `scikit-learn`, `XGBoost`, `LightGBM`  
-- **Deep Learning**: `TensorFlow`, `Keras`, `PyTorch`  
-- **NLP & Web Scraping**: `BeautifulSoup`, `Requests`, `spaCy`, `NLTK`  
-- **Model Deployment**: `FastAPI`, `Streamlit`, `Flask`  
-
-### 🏢 Databases & Big Data  
-- **SQL**: `PostgreSQL`, `MySQL`, `SQL Server`  
-- **NoSQL**: `MongoDB`  
-- **Big Data**: `PySpark`, `Databricks`, `Snowflake`, `BigQuery`, `Redshift`  
-- **In-Memory & OLAP**: `DuckDB`, `ClickHouse`  
-- **Data Orchestration**: `Airflow`, `dbt`  
+</div>
 
 ---
 
-## 🚀 Current Focus  
-- Building **scalable ML pipelines** for business applications  
-- Exploring **distributed data processing** with `PySpark` & `Databricks`  
-- Advancing skills in **deep learning & model deployment**  
-- Enhancing **interactive dashboards** with `Plotly` & `Tableau`  
- 
+## 🚀 About Me
+
+> _"In a world drowning in data, I build the bridges that turn information into intelligence."_
+
+I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline development, from raw data ingestion to production-ready models. I specialize in extracting actionable insights from complex datasets and building scalable AI solutions that drive real business impact.
+
+- 🔬 **Research-driven approach** to solving complex business problems
+- 🏗️ **Full-stack data solutions** from ETL to model deployment
+- 📈 **Business-focused insights** that translate technical findings into strategic value
+- 🌐 **Scalable architectures** for big data and distributed computing
+
 ---
 
-## 💡 Let's Connect  
-📧 **Email**: [tmhomenko@gmail.com](mailto:tmhomenko@gmail.com)  
-💼 **LinkedIn**: [Bohdan Khomenko](https://www.linkedin.com/in/bohdan-khomenko/)  
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 🎯 **Core Technologies**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ---
 
-💬 *"Every dataset has a hidden story. My mission is to uncover it and turn it into value."* 🚀
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 📊 **Data Science & Analytics**
+
+**Core Libraries**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat&logoColor=white)
+
+**Visualization**
+- ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-388E3C?style=flat&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 **Machine Learning & AI**
+
+**ML Frameworks**
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logoColor=white)
+
+**Deep Learning**
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat&logoColor=black)
+
+**Deployment**
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏢 **Big Data & Cloud**
+
+**Databases**
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Big Data Processing**
+- ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+- ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Orchestration & Cloud**
+- ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logoColor=white) 
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat&logoColor=black) 
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 **What I Do Best**
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<div align="left">
+
+### 🔍 **Predictive Analytics**
+
+![Analytics](https://img.shields.io/badge/-Predictive%20Modeling-FF6B6B?style=flat-square)
+
+- 📊 **Customer churn prediction** - Identify at-risk customers
+- 📈 **Demand forecasting** - Optimize inventory & resources
+- ⚠️ **Risk assessment models** - Quantify business risks
+- ⏰ **Time series analysis** - Trend prediction & seasonality
+
+### 🧠 **Machine Learning**
+
+![ML](https://img.shields.io/badge/-Advanced%20ML-4ECDC4?style=flat-square)
+
+- 🎯 **Classification & regression** - Supervised learning expertise
+- 🔄 **Clustering & segmentation** - Customer & market analysis
+- 💡 **Recommendation systems** - Personalization algorithms
+- 🚀 **Deep learning applications** - Neural networks & AI
+
+</div>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<div align="left">
+
+### 📊 **Data Engineering**
+
+![Engineering](https://img.shields.io/badge/-Data%20Pipelines-45B7D1?style=flat-square)
+
+- 🔄 **ETL/ELT pipeline design** - Scalable data workflows
+- ⚡ **Real-time data processing** - Stream analytics & monitoring
+- 🏗️ **Data warehouse architecture** - Enterprise data solutions
+- 🔗 **API development & integration** - Seamless data connectivity
+
+### 🎯 **Business Intelligence**
+
+![BI](https://img.shields.io/badge/-Strategic%20Insights-F7DC6F?style=flat-square)
+
+- 📱 **Interactive dashboards** - Executive & operational reporting
+- 📊 **KPI monitoring systems** - Performance tracking & alerts
+- 🧪 **A/B testing frameworks** - Data-driven experimentation
+- 📋 **Statistical analysis & reporting** - Evidence-based decisions
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 **Featured Projects**
+
+### 🏦 [Customer Churn Prediction Neural Network](link-to-repo)
+
+**Deep Learning | Business Intelligence | Risk Analytics**
+
+- Built neural network achieving **86.5% accuracy** in predicting bank customer churn
+- Identified $2.3M potential annual savings through targeted retention strategies
+- **Tech Stack**: TensorFlow, Pandas, Scikit-learn, Plotly
+
+### 🏎️ [Formula 1 Analytics Pipeline](link-to-repo)
+
+**Big Data | ETL | Sports Analytics**
+
+- Engineered end-to-end data pipeline processing 20+ years of F1 race data
+- Built real-time race performance dashboards with predictive lap time models
+- **Tech Stack**: Databricks, PySpark, Delta Lake, Power BI
+
+---
+
+## 📊 **GitHub Analytics & Activity**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarblase&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarblase&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 **Current Focus & Learning**
+
+- 🚀 **MLOps & Model Deployment**: Building production-ready ML systems with MLFlow
+- 🌊 **Real-time Analytics**: Stream processing with Apache Kafka
+- 🧠 **Large Language Models**: Fine-tuning and RAG implementations with LangGraph
+- ☁️ **Cloud Architecture**: Designing scalable data platforms on Azure
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-tmhomenko@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmhomenko@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan%20Khomenko-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-khomenko/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scarblase)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 _"Data is the new oil, but insights are the refined fuel that powers business success."_
+
+**Open to exciting data science opportunities and collaborative projects!** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=scarblase&color=brightgreen&style=for-the-badge)
+
+</div>
