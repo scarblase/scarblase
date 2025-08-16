@@ -6,10 +6,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Specialist-green?style=for-the-badge&logo=tensorflow)
 ![Big Data](https://img.shields.io/badge/Big%20Data-Engineer-orange?style=for-the-badge&logo=apache-spark)
 
-### 🎯 **Data Scientist | ML Engineer | Big Data Engineer**
-
-### 📊 **Transforming Complex Data into Strategic Business Value**
-
 </div>
 
 ---
@@ -20,23 +16,9 @@
 
 I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline development, from raw data ingestion to production-ready models. I specialize in extracting actionable insights from complex datasets and building scalable AI solutions that drive real business impact.
 
-- 🔬 **Research-driven approach** to solving complex business problems
-- 🏗️ **Full-stack data solutions** from ETL to model deployment
-- 📈 **Business-focused insights** that translate technical findings into strategic value
-- 🌐 **Scalable architectures** for big data and distributed computing
-
 ---
 
 ## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### 🎯 **Core Technologies**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
 
 ---
 
@@ -44,7 +26,7 @@ I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline dev
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 📊 **Data Science & Analytics**
 
@@ -56,7 +38,7 @@ I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline dev
 - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🤖 **Machine Learning & AI**
 
@@ -72,7 +54,7 @@ I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline dev
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🏢 **Big Data & Cloud**
 
@@ -154,37 +136,6 @@ I'm a passionate **Data Scientist** with expertise in end-to-end ML pipeline dev
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🏆 **Featured Projects**
-
-### 🏦 [Customer Churn Prediction Neural Network](link-to-repo)
-
-**Deep Learning | Business Intelligence | Risk Analytics**
-
-- Built neural network achieving **86.5% accuracy** in predicting bank customer churn
-- Identified $2.3M potential annual savings through targeted retention strategies
-- **Tech Stack**: TensorFlow, Pandas, Scikit-learn, Plotly
-
-### 🏎️ [Formula 1 Analytics Pipeline](link-to-repo)
-
-**Big Data | ETL | Sports Analytics**
-
-- Engineered end-to-end data pipeline processing 20+ years of F1 race data
-- Built real-time race performance dashboards with predictive lap time models
-- **Tech Stack**: Databricks, PySpark, Delta Lake, Power BI
-
----
-
-## 📊 **GitHub Analytics & Activity**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scarblase&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scarblase&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
